@@ -2,7 +2,9 @@
 ## 🏦 Project Overview
 
 -Develop an interactive Bank Loan Report Dashboard using Excel.
+
 -Built using Loan Dataset.
+
 -Three dashboards: Summary, Overview, and Details.
 
 ## 🎯 Business Objectives
