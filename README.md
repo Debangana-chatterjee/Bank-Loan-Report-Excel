@@ -48,11 +48,11 @@ Purpose: Identify seasonality, borrower profile trends, and concentration risks.
 
 Comprehensive grid view categorized by Loan Status:
 
-     -Fully Paid
+ -Fully Paid
 
-     -Current
+ -Current
 
-     -Charged Off
+ -Charged Off
 
 Metrics included:
 
